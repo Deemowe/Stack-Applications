@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1655740267 source:c:\data structure\applications\main.cpp
+	<iostream>
+	<string.h>
+	"doubleStk.h"
+	"charStk.h"
+
+1655740342 c:\data structure\applications\doublestk.h
+	<math.h>
+
+1655740342 c:\data structure\applications\charstk.h
+
